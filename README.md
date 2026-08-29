@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Pranav Firame, a Full Stack Web Developer<br><br>💻 Skilled in Java, JavaScript, C/C++, HTML, CSS, Node.js, Express, MongoDB<br>🌱 Currently learning React & SQL<br>🚀 Built projects like Wanderlust, a full-stack travel listing platform<br>🎓 B.Tech Computer Engineering (Pursuing)<br>📍 Pune, India<br><br>📫 Reach me at: pranavfirame06@gmail.com</p>
+<p align="left">👋 Hi, I’m Pranav Firame, a Full Stack Web Developer<br><br>💻 Skilled in Java, JavaScript, C/C++, HTML, CSS, Node.js, Express, MongoDB<br>🌱 Currently learning React<br>🚀 Built projects like Wanderlust, a full-stack travel listing platform<br>🎓 B.Tech Computer Engineering (Pursuing)<br>📍 Pune, India<br><br>📫 Reach me at: pranavfirame06@gmail.com</p>
 
 ###
 
